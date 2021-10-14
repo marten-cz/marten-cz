@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**marten-cz/marten-cz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔭 I'm currently working on
 
-Here are some ideas to get you started:
+Tech lead on our own platform for recruiters and companies looking for new employees.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Stack: PHP, Nodejs, React, RabbitMQ, Postres, ElasticSearch
+
+React frontend for MSSQL monitoring service.
+
+* Stack: React, .NET core, MSSQL
+
+Complex application to track packages worldwide
+
+* Stack: OpenShift, Java, Nodejs, React, Kafka, NiFi, ElasticSearch, Oracle
+
+Working on some libraries for Jenkins (and connection with other tools we are using), typescript development.
+
+#### 🌱 I’m currently learning
+
+There is always something to learn even there where I feel already strong.
