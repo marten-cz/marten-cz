@@ -6,9 +6,13 @@ Tech lead on our own platform for recruiters and companies looking for new emplo
 
 * Stack: PHP, Nodejs, React, RabbitMQ, Postres, ElasticSearch
 
-React frontend for MSSQL monitoring service.
+React frontend and architecture for MSSQL monitoring service.
 
-* Stack: React, .NET core, MSSQL
+* Stack: React, NodeJS, .NET core, MSSQL, Keycloak
+
+AI for project documentation to improve readability and searchability inside team.
+
+* Ollama, ML
 
 Complex application to track packages worldwide
 
